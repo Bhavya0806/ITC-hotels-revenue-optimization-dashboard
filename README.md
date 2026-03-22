@@ -1,4 +1,3 @@
-# ITC-hotels-revenue-optimization-dashboard
 # ITC Hotels Revenue Optimization Dashboard
 
 ## 📊 Overview
